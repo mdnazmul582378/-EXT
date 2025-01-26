@@ -1,5 +1,5 @@
 #EXT-X-CUSTOM: START Naruto Season 1
-#EXTINF:-1 tvg-id="NarutoS1" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="ACTION|MYSTERY|ADVENTURE|WEBSERIES|SEASON 1"
+#EXTINF:-1 tvg-id="NarutoS1" tvg-name="NarutoS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="ACTION|MYSTERY|ADVENTURE|WEBSERIES|SEASON 1"
 #Main Channel
 #EXTINF:-1 tvg-id="10" tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
 Streaming.link
@@ -20,14 +20,14 @@ Streaming.link
 #EXT-X-CUSTOM: END One Piece
 
 #EXT-X-CUSTOM: START Attack on Titan
-#EXTINF:-1 tvg-id="AttackOnTitan" tvg-name="Attack on Titan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Attack_on_Titan_logo.svg" group-title="ACTION|DRAMA|SEASON 1"
+#EXTINF:-1 tvg-id="AttackOnTitan" tvg-name="Attack on Titan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA|SEASON 1"
 #Main Channel
 #EXTINF:-1 tvg-id="40" tvg-name="Episode 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
 Streaming.link
 #EXT-X-CUSTOM: END Attack on Titan
 
 #EXT-X-CUSTOM: START My Hero Academia
-#EXTINF:-1 tvg-id="MyHeroAcademia" tvg-name="My Hero Academia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/My_Hero_Academia_logo.svg" group-title="ACTION|SUPERHERO|SEASON 1"
+#EXTINF:-1 tvg-id="MyHeroAcademia" tvg-name="My Hero Academia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO|SEASON 1"
 #Main Channel
 #EXTINF:-1 tvg-id="50" tvg-name="Episode 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
 Streaming.link
