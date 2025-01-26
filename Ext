@@ -1,7 +1,9 @@
 #EXT-X-CUSTOM: START Naruto Season 1
-#EXTINF:-1 tvg-id="NarutoS1" tvg-name="NarutoS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="ACTION|MYSTERY|ADVENTURE|WEBSERIES|SEASON 1"
+#EXTINF:-1 tvg-name="NarutoS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="ACTION|MYSTERY|ADVENTURE|WEBSERIES|SEASON 1"
 #Main Channel
 #EXTINF:-1 tvg-id="10" tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXTINF:-1 tvg-id="11" tvg-name="Episode 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
 Streaming.link
 #EXT-X-CUSTOM: END Naruto Season 1
 
